@@ -9,6 +9,9 @@
 1. hello
 2. 
 
+![FAIR](image/FAIRPrinciples.jpg)
+
+
 ## License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
